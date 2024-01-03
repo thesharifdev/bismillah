@@ -1,2 +1,2 @@
 # bismillah
-Simple WordPress for staring 
+Simple WordPress for starting 
