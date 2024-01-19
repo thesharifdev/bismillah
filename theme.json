@@ -6,12 +6,12 @@
 		"color": {
 		  "palette": [
 			{
-			  "color": "#FFF5E1",
+			  "color": "#e4ebe4",
 			  "name": "Base",
 			  "slug": "base"
 			},
 			{
-			  "color": "#781C68",
+			  "color": "#001e00",
 			  "name": "Contrast",
 			  "slug": "contrast"
 			}
