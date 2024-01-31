@@ -7,4 +7,4 @@
  */
 ?>
 
-<h1>This is hero</h1>
+<h1>This is hero edited</h1>
