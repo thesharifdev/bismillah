@@ -99,7 +99,7 @@
 					"radius": "0"
 				},
 				"color": {
-					"text": "var(--wp--preset--color--contrast)"
+					"text": "var(--wp--preset--color--base)"
 				},
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--medium)"
