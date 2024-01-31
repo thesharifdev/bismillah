@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Hero
- * Slug: twentytwentyfour/banner-hero
- * Categories: banner, call-to-action, featured
+ * Slug: bismillah/banner-hero
+ * Categories: banner
  * Viewport width: 1400
  */
 ?>
