@@ -8,12 +8,9 @@ License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
 == Description ==
-
 Bismillah is a minimalist WordPress block theme, designed for seamless integration with the Gutenberg editor. Especially this theme is created for build a site from scratch with WordPress and Gutenberg.
 
-
 == Changelog ==
-
 = 1.0.3 =
 * New: Post pattern
 * Fixed: All pages padding issue for mobile devices
