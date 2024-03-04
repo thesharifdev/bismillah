@@ -13,6 +13,7 @@ Bismillah is a minimalist WordPress block theme, designed for seamless integrati
 == Changelog ==
 = 1.0.5 =
 *Added: Theme support for align-wide, automatic-feed-links, and wp-block-styles
+*Fixed: Home page padding issue
 
 = 1.0.4 =
 * Improved: Home page design
