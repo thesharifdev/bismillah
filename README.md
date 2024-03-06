@@ -1,2 +1,2 @@
 # bismillah
-Bismillah is a minimalist WordPress block theme, designed for seamless integration with the Gutenberg editor. Especially this theme is created for build a site from scratch with WordPress and Gutenberg. If you need Hello type theme, Bismillah is best for you.
+Learning Gutenberg
