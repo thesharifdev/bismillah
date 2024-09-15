@@ -1,5 +1,5 @@
 === Bismillah ===
-Contributors: wpsharif
+Contributors: wpsharif, faithcoder
 Requires at least: 6.0
 Tested up to: 6.4
 Requires PHP: 7.4
